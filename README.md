@@ -23,4 +23,4 @@ Sou um desenvolvedor de software apaixonado por criar soluções digitais incrí
 
 ## Estatísticas do GitHub:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rochinhaDev&show_icons=true&theme=dark)
