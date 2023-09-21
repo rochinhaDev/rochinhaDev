@@ -19,7 +19,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções digitais incrí
 ## Projetos em destaque:
 
 - Projeto 1: [Wines & Wines](https://github.com/rochinhaDev/projeto-3)
-- Projeto 2: [Nome do Projeto 2](https://github.com/seu-nome/projeto2)
+- Projeto 2: [Sales Form](https://github.com/rochinhaDev/SalesForm)
 
 ## Estatísticas do GitHub:
 
