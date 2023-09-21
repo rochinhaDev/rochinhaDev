@@ -2,14 +2,14 @@
 
 Sou um desenvolvedor de software apaixonado por criar soluções digitais incríveis. Aqui estão algumas das tecnologias com as quais trabalho:
 
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green?logo=node.js)
+![Node.js](https://camo.githubusercontent.com/626fb60c4c17c2cf2ad0e599efaa8ed691ede878ce1e94b85c0c401701716f8e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667)
 ![Express.js](https://img.shields.io/badge/Express.js-Advanced-green?logo=express)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-Intermediate-blue?logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-Intermediate-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue?logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Intermediate-blue?logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green?logo=mongodb)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Tailwind CSS]()
+![MongoDB](https://camo.githubusercontent.com/d69527496a61f94e89fbb0f4022b15fa816f63d9b773c1ae2b6f83fb63e69d2f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667)
 
 ## Entre em contato:
 
